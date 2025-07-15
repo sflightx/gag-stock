@@ -1,0 +1,13 @@
+{
+  "name": "growagarden-notifier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase-admin": "^11.11.1",
+    "node-fetch": "^2.6.7"
+  }
+}
